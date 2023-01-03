@@ -1,1 +1,2 @@
-Building out a VPC with terraform
+Building out a VPC with terraform from scratch
+
